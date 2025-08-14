@@ -89,3 +89,6 @@ target/
 .mypy_cache/
 
 myenv
+.env
+/experiment_info.json
+/metrics.json
